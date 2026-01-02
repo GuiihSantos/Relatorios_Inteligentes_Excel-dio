@@ -19,3 +19,4 @@ A mentoria percorre os quatro pilares fundamentais da análise de dados no Excel
     * Inclusão de **Segmentação de Dados (Slicers)** para filtros intuitivos (Estado, Tema).
     * Design profissional com menus de navegação, hiperligações e remoção de elementos desnecessários (linhas de grade).
 
+<img width="1156" height="655" alt="Image" src="https://github.com/user-attachments/assets/94affd61-2827-4e51-9689-bef2bb353528" />
