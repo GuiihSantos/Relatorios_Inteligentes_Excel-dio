@@ -14,7 +14,7 @@ A mentoria percorre os quatro pilares fundamentais da análise de dados no Excel
 1. **Data Cleansing:** Transformação de CSV, normalização de caracteres e tratamento de padrões numéricos brasileiros.
 2. **Correção de Anomalias:** Validação de integridade através de campos calculados e uso de tabelas "De-Para" com `PROCV`.
 3. **Profissionalismo e Performance:** Técnicas de rastreabilidade de dados, otimização de velocidade de planilhas e nomenclatura técnica.
-4. **Business Intelligence:** Construção de Dashboards interativos com Tabelas Dinâmicas, Slicers e design focado na experiência do usuário (UI).
+4. **Business Intelligence:** Construção de Dashboards interativos com Tabelas Dinâmicas.
 5. **Relatórios Dinâmicos e Dashboards:** * Construção de **Tabelas Dinâmicas** para criar visões estratégicas de vendas por shopping e categoria de produto.
     * Inclusão de **Segmentação de Dados (Slicers)** para filtros intuitivos (Estado, Tema).
     * Design profissional com menus de navegação, hiperligações e remoção de elementos desnecessários (linhas de grade).
